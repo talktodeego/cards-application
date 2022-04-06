@@ -1,6 +1,6 @@
 # Cards
 
-**TODO: Add description**
+**TODO: Elixir application where we can create a deck with 52 cards, suits, shuffle, save and load**
 
 ## Installation
 
