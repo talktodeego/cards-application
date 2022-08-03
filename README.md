@@ -1,6 +1,6 @@
 # Cards
 
-**Elixir application where we can create a deck with 52 cards, suits, shuffle, save and load**
+Elixir application where we can create a deck with 52 cards, suits, shuffle, save and load. To **view** the code, access the LIB folder
 
 ## Installation
 
